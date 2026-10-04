@@ -53,4 +53,4 @@ their inputs from `../data/`; paths are set in the first code cell.
 
 ## AI declaration
 
-See `AI_declaration.txt`.
+See `AI_declaration.md`.
